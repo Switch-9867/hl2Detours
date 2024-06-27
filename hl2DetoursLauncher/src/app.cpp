@@ -1,6 +1,6 @@
 #include "app.h"
 
-namespace cppTemplate {
+namespace hl2DetoursLauncher {
 
     App::App(HINSTANCE instance, PSTR args, INT cmd_show)
     {

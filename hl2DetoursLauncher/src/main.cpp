@@ -6,7 +6,7 @@
 
 INT APIENTRY WinMain(HINSTANCE instance, HINSTANCE, PSTR args, INT cmd_show) {
 
-    cppTemplate::App app{ instance, args, cmd_show };
+    hl2DetoursLauncher::App app{ instance, args, cmd_show };
 
     try {
         app.run();

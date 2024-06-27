@@ -2,7 +2,7 @@
 
 #include <Windows.h>
 
-namespace cppTemplate {
+namespace hl2DetoursLauncher {
     class App {
     public:
         App(HINSTANCE instance, PSTR args, INT cmd_show);
